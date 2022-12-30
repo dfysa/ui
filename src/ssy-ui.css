@@ -1,22 +1,5 @@
-/*css reset */
+/* css reset */
 @import './reset.css';
 
-/*公共样式*/
-@import './ common. css';
-/* 标题栏样式 */
-@import './header.css';
-
-/* 内容区样式 */
-@import './content.css';
-
-/* 导航条样式 */
-@import './navbar.css';
-
-/* 导航条样式 */
-@import './input.css';
-
-/* 导航条样式 */
-@import './icon.input.css';
-
-/* 导航条样式 */
-@import './button.css';
+/* 公共样式 */
+@import './common.css';
